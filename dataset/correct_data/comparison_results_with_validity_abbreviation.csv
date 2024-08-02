@@ -1,0 +1,11 @@
+partner center 会社名,customer book 会社名,サブスクリプションID,M365 プラン,契約名,妥当性
+株式会社福島中央テレビ,FCT.jp,5555-1111,M365 Enterprise E3,契約A,True
+株式会社日本放送協会,NHK,5555-1112,M365 Enterprise E3,契約B,True
+株式会社東京放送ホールディングス,TBS,5555-1113,M365 Enterprise E3,契約C,True
+株式会社株式会社野村総合研究所,NRI,5555-1114,M365 Enterprise E3,契約D,True
+株式会社テレビ朝日,EX,5555-1115,M365 Enterprise E3,契約E,True
+株式会社東日本旅客鉄道株式会社,JR東,5555-1116,M365 Enterprise E3,契約F,True
+株式会社フジテレビジョン,Fuji TV,5555-1117,M365 Enterprise E3,契約G,True
+株式会社読売新聞社,Yomiuri,5555-1118,M365 Enterprise E3,契約H,True
+野村證券株式会社,NRI,5555-1119,M365 Enterprise E3,契約I,False
+株式会社博報堂,ADK,5555-1120,M365 Enterprise E3,契約J,False

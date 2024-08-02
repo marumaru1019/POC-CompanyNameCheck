@@ -1,0 +1,11 @@
+partner center 会社名,customer book 会社名,サブスクリプションID,M365 プラン,契約名,妥当性
+T&Dリスクソリューションズ株式会社,T&Dリスクソリューションズ,4444-1111,M365 Enterprise E3,契約A,True
+株式会社ミツビシ電機,ミツビシ電機,4444-1112,M365 Enterprise E3,契約B,True
+トヨタ自動車株式会社,トヨタ自動車,4444-1113,M365 Enterprise E3,契約C,True
+ソニー株式会社,ソニー,4444-1114,M365 Enterprise E3,契約D,True
+株式会社日立製作所,日立製作所,4444-1115,M365 Enterprise E3,契約E,True
+パナソニック株式会社,パナソニック,4444-1116,M365 Enterprise E3,契約F,True
+株式会社シャープ,シャープ,4444-1117,M365 Enterprise E3,契約G,True
+株式会社ホンダ,ホンダ,4444-1118,M365 Enterprise E3,契約H,True
+富士通株式会社,日産,4444-1119,M365 Enterprise E3,契約I,False
+リコー株式会社,リコーテック,4444-1120,M365 Enterprise E3,契約J,False

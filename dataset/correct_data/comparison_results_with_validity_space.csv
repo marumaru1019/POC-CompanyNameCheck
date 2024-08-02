@@ -1,0 +1,11 @@
+partner center 会社名,customer book 会社名,サブスクリプションID,M365 プラン,契約名,妥当性
+株式会社九州電子,株式会社 九州電子,1111-1111,M365 Business Basic,契約A,True
+株式会社ICテクノロジーズ,株式会社 IC テクノロジーズ,1111-1112,M365 Business Basic,契約B,True
+株式会社夢組,株式会社 夢組,1111-1113,M365 Business Basic,契約C,True
+株式会社ソフトウェアサービス,株式会社ソフト ウェア サービス,1111-1114,M365 Business Basic,契約D,True
+株式会社イーシステム,株式会社 イーシステム,1111-1115,M365 Business Basic,契約E,True
+株式会社ニューウェーブ,株式会社ニュー ウェーブ,1111-1116,M365 Business Basic,契約F,True
+株式会社アーステック,株式会社 アース テック,1111-1117,M365 Business Basic,契約G,True
+株式会社サンライズ,株式会社サン ライズ,1111-1118,M365 Business Basic,契約H,True
+株式会社グリーンテック,株式会社ブルースカイテック,1111-1119,M365 Business Basic,契約I,False
+株式会社サンテック,株式会社サンライズテック,1111-1120,M365 Business Basic,契約J,False
